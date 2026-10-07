@@ -1,0 +1,101 @@
+product_id,product_name,category,unit_cost,selling_price
+P0001,Wireless Mouse,Electronics,7763.26,9005.41
+P0002,Mixer Grinder,Home & Kitchen,1433.14,1776.07
+P0003,Toor Dal,Grocery,894.31,1270.53
+P0004,Body Lotion,Personal Care,1343.66,1591.94
+P0005,Hoodie,Fashion,1774.4,2061.71
+P0006,A4 Paper Pack,Stationery,212.4,287.19
+P0007,Yoga Mat,Sports,230.03,282.83
+P0008,Blush,Beauty,1977.66,2705.39
+P0009,Pro Smart Watch 2,Electronics,2840.18,3935.66
+P0010,Smart Food Chopper 2,Home & Kitchen,4062.4,4682.32
+P0011,Eco Oats 2,Grocery,974.75,1393.17
+P0012,Deluxe Bath Soap 2,Personal Care,543.36,658.66
+P0013,Advanced Cotton T-Shirt 2,Fashion,3835.27,4926.93
+P0014,Essential Ball Pen 2,Stationery,101.62,120.79
+P0015,Premium Football 2,Sports,4252.72,5917.62
+P0016,Classic Mascara 2,Beauty,2436.81,3513.62
+P0017,Smart Power Bank 3,Electronics,6550.68,10083.11
+P0018,Eco Lunch Box 3,Home & Kitchen,1942.39,2662.66
+P0019,Deluxe Coffee 3,Grocery,1002.11,1400.36
+P0020,Advanced Face Cream 3,Personal Care,1299.48,1794.51
+P0021,Essential Kurta 3,Fashion,2862.6,3344.46
+P0022,Premium Drawing Book 3,Stationery,220.55,279.16
+P0023,Classic Gym Gloves 3,Sports,490.98,610.35
+P0024,Pro Makeup Kit 3,Beauty,374.92,472.85
+P0025,Eco Wireless Mouse 4,Electronics,7719.29,10003.68
+P0026,Deluxe Mixer Grinder 4,Home & Kitchen,1901.29,2345.82
+P0027,Advanced Toor Dal 4,Grocery,349.69,533.16
+P0028,Essential Body Lotion 4,Personal Care,989.65,1379.23
+P0029,Premium Hoodie 4,Fashion,808.88,1166.12
+P0030,Classic A4 Paper Pack 4,Stationery,163.79,213.22
+P0031,Pro Yoga Mat 4,Sports,4948.66,6957.82
+P0032,Smart Blush 4,Beauty,1706.29,2429.49
+P0033,Deluxe Smart Watch 5,Electronics,10153.51,14828.19
+P0034,Advanced Food Chopper 5,Home & Kitchen,1206.92,1403.45
+P0035,Essential Oats 5,Grocery,405.93,510.29
+P0036,Premium Bath Soap 5,Personal Care,355.93,543.56
+P0037,Classic Cotton T-Shirt 5,Fashion,3524.02,4496.2
+P0038,Pro Ball Pen 5,Stationery,596.79,780.75
+P0039,Smart Football 5,Sports,4581.28,6109.32
+P0040,Eco Mascara 5,Beauty,853.45,1065.66
+P0041,Advanced Power Bank 6,Electronics,6846.08,8592.49
+P0042,Essential Lunch Box 6,Home & Kitchen,2956.16,4461.23
+P0043,Premium Coffee 6,Grocery,503.3,622.95
+P0044,Classic Face Cream 6,Personal Care,1496.43,2025.88
+P0045,Pro Kurta 6,Fashion,500.0,584.42
+P0046,Smart Drawing Book 6,Stationery,116.49,163.2
+P0047,Eco Gym Gloves 6,Sports,3981.19,5250.65
+P0048,Deluxe Makeup Kit 6,Beauty,265.5,345.85
+P0049,Essential Wireless Mouse 7,Electronics,11954.43,16277.7
+P0050,Premium Mixer Grinder 7,Home & Kitchen,4857.71,7258.93
+P0051,Classic Toor Dal 7,Grocery,53.32,76.69
+P0052,Pro Body Lotion 7,Personal Care,1038.48,1417.31
+P0053,Smart Hoodie 7,Fashion,1177.28,1655.71
+P0054,Eco A4 Paper Pack 7,Stationery,118.17,156.45
+P0055,Deluxe Yoga Mat 7,Sports,2323.25,3558.12
+P0056,Advanced Blush 7,Beauty,2637.49,3310.99
+P0057,Premium Smart Watch 8,Electronics,6131.89,7489.86
+P0058,Classic Food Chopper 8,Home & Kitchen,4570.13,6847.0
+P0059,Pro Oats 8,Grocery,386.2,542.83
+P0060,Smart Bath Soap 8,Personal Care,933.01,1130.0
+P0061,Eco Cotton T-Shirt 8,Fashion,3085.67,4214.26
+P0062,Deluxe Ball Pen 8,Stationery,705.19,960.57
+P0063,Advanced Football 8,Sports,102.8,131.55
+P0064,Essential Mascara 8,Beauty,136.87,208.27
+P0065,Classic Power Bank 9,Electronics,10574.98,15679.17
+P0066,Pro Lunch Box 9,Home & Kitchen,1592.97,1868.82
+P0067,Smart Coffee 9,Grocery,1058.49,1618.2
+P0068,Eco Face Cream 9,Personal Care,174.2,234.19
+P0069,Deluxe Kurta 9,Fashion,416.47,605.65
+P0070,Advanced Drawing Book 9,Stationery,693.93,833.66
+P0071,Essential Gym Gloves 9,Sports,2428.88,3327.37
+P0072,Premium Makeup Kit 9,Beauty,853.97,1280.08
+P0073,Pro Wireless Mouse 10,Electronics,5221.87,6447.54
+P0074,Smart Mixer Grinder 10,Home & Kitchen,2733.34,3941.4
+P0075,Eco Toor Dal 10,Grocery,273.34,348.42
+P0076,Deluxe Body Lotion 10,Personal Care,1492.97,2105.01
+P0077,Advanced Hoodie 10,Fashion,1836.69,2492.44
+P0078,Essential A4 Paper Pack 10,Stationery,126.48,156.82
+P0079,Premium Yoga Mat 10,Sports,1756.62,2433.49
+P0080,Classic Blush 10,Beauty,751.94,930.97
+P0081,Smart Smart Watch 11,Electronics,1084.17,1520.48
+P0082,Eco Food Chopper 11,Home & Kitchen,1206.39,1824.26
+P0083,Deluxe Oats 11,Grocery,1037.18,1222.15
+P0084,Advanced Bath Soap 11,Personal Care,395.11,560.1
+P0085,Essential Cotton T-Shirt 11,Fashion,974.81,1172.62
+P0086,Premium Ball Pen 11,Stationery,843.25,1162.35
+P0087,Classic Football 11,Sports,2416.09,3536.79
+P0088,Pro Mascara 11,Beauty,2437.89,2989.25
+P0089,Eco Power Bank 12,Electronics,1388.94,1836.76
+P0090,Deluxe Lunch Box 12,Home & Kitchen,2164.01,2892.87
+P0091,Advanced Coffee 12,Grocery,885.73,1257.16
+P0092,Essential Face Cream 12,Personal Care,1477.04,1756.74
+P0093,Premium Kurta 12,Fashion,1700.09,2185.84
+P0094,Classic Drawing Book 12,Stationery,778.27,972.42
+P0095,Pro Gym Gloves 12,Sports,1032.02,1372.01
+P0096,Smart Makeup Kit 12,Beauty,1311.89,1654.84
+P0097,Deluxe Wireless Mouse 13,Electronics,3185.23,4839.34
+P0098,Advanced Mixer Grinder 13,Home & Kitchen,2260.2,3377.96
+P0099,Essential Toor Dal 13,Grocery,678.38,793.86
+P0100,Premium Body Lotion 13,Personal Care,1498.96,2225.07

@@ -1,0 +1,14 @@
+# Core data science
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+
+# Notebook
+jupyter
+ipykernel
+openpyxl
+
+# Add production/modeling dependencies as the project evolves.

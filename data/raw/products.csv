@@ -1,5 +1,5 @@
 product_id,product_name,category,unit_cost,selling_price
-P0001,Wireless Mouse,Electronics,7763.26,9005.41
+0,P0001,Wireless Mouse,Electronics,7763.26,9005.41
 P0002,Mixer Grinder,Home & Kitchen,1433.14,1776.07
 P0003,Toor Dal,Grocery,894.31,1270.53
 P0004,Body Lotion,Personal Care,1343.66,1591.94

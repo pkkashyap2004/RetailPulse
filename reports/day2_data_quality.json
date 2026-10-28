@@ -1,0 +1,33 @@
+{
+  "rows": {
+    "sales": 500,
+    "customers": 500,
+    "products": 500,
+    "inventory": 500
+  },
+  "missing_after_conversion": {
+    "sales": 0,
+    "customers": 0,
+    "products": 0,
+    "inventory": 0
+  },
+  "duplicates": {
+    "sales": 0,
+    "customers": 0,
+    "products": 0,
+    "inventory": 0
+  },
+  "unmatched_sales_customers": 0,
+  "unmatched_product_ids": 0,
+  "revenue": 12174728.26,
+  "inventory_below_reorder": 59,
+  "inventory_below_reorder_pct": 11.8,
+  "max_abs_sales_calculation_difference": 0.01,
+  "raw_data_modified": false,
+  "outputs": [
+    "sales_clean.csv",
+    "customers_clean.csv",
+    "products_clean.csv",
+    "inventory_clean.csv"
+  ]
+}
